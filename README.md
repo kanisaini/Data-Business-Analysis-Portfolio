@@ -1,3 +1,5 @@
+## Kanika Saini - Data-Business Analyst Portfolio
+
 # About
 
 Hi, I'm Kanika Saini! A results-oriented Data Engineer with professional experience in designing and implementing data-driven solutions. Possesses a strong foundation in computer engineering and holds a degree MSc in Business Analytics and Consultancy. Skilled in using Python, Power BI, and SQL to develop BI solutions, reporting, and dashboards. Adept at leveraging data to uncover insights, optimize processes, and drive decisions. Recognized for problem-solving, debugging, and delivering high-quality solutions. Strong collaborator with excellent communication skills, committed to mentoring and continuous learning. Seeking to leverage technical expertise and analytical capabilities to contribute to business growth and impactful decision-making within a dynamic organization.
