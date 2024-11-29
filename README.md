@@ -10,5 +10,9 @@ This repository was created to showcase my analytical and technical skills (Exce
 
 
 ## Table of Content
-- [About](About).
+- [About](About)
+
+
+## Portfolio Projects
+This section contains a list of projects with brief descriptions.
 
