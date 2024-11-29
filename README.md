@@ -9,10 +9,6 @@ I enjoy exploring new data analysis tools and techniques in my free time, and I 
 This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, PowerPoint, and others).
 
 
-## Table of Content
-- [About](About)
-
-
 ## Portfolio Projects
 This section contains a list of projects with brief descriptions.
 
