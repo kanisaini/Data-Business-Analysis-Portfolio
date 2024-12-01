@@ -14,22 +14,11 @@ This section contains a list of projects with brief descriptions.
 
 ## Analyzing the Factors Contributing to the Success of a Movie
 **Code:** [Analyzing the Factors Contributing to the Success of a Movie.ipynb](https://github.com/kanisaini/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
-
-### Goal
-To determine what factors contribute the most to a movie's success.
-
-### Description
-The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implementing Pearson’s correlation statistical analysis.
-
-### Skills
-Data cleaning, data analysis, Correlation matrices, hypothesis testing, and data visualization.
-
-### Technology 
-Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
-
-### Results
-Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
-
+**Goal:** To determine what factors contribute the most to a movie's success.
+**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implementing Pearson’s correlation statistical analysis.
+**Skills:** Data cleaning, data analysis, Correlation matrices, hypothesis testing, and data visualization.
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
 
 ## Covid-19 Data Analysis 
 ### Code 
