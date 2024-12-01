@@ -41,8 +41,11 @@ This section contains a list of projects with brief descriptions.
 - Provided comparative analysis of the impact across different regions or countries.
 - Delivered actionable insights into pandemic progression, aiding in public health understanding.
 
-
 ## Education
+- University of Hertfordshire, Hertfordshire, United Kingdom: Master of Science, MSc Business Analytics and Consultancy, September 2023 – September 2024
+- Bharati Vidyapeeth University College of Engineering, Pune, India: Bachelor of Technology in Computer Engineering, July 2018 - July 2022
 
 ## Contacts
+- [linkedin](https://www.linkedin.com/in/kanika-s-405770194/)
+- **Email:** kanisaini.1199@gmail.com
 
