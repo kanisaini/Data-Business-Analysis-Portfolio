@@ -40,3 +40,9 @@ This section contains a list of projects with brief descriptions.
 - Created visualizations to display trends in COVID-19 cases, recoveries, and fatalities.
 - Provided comparative analysis of the impact across different regions or countries.
 - Delivered actionable insights into pandemic progression, aiding in public health understanding.
+
+
+## Education
+
+## Contacts
+
