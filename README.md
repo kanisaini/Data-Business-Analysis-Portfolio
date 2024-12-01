@@ -42,7 +42,7 @@ This section contains a list of projects with brief descriptions.
 - Delivered actionable insights into pandemic progression, aiding in public health understanding.
 
 ## Education
-- University of Hertfordshire, Hertfordshire, United Kingdom: Master of Science, MSc Business Analytics and Consultancy, September 2023 – September 2024
+- University of Hertfordshire, United Kingdom: Master of Science, MSc Business Analytics and Consultancy, September 2023 – September 2024
 - Bharati Vidyapeeth University College of Engineering, Pune, India: Bachelor of Technology in Computer Engineering, July 2018 - July 2022
 
 ## Contacts
