@@ -13,9 +13,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 This section contains a list of projects with brief descriptions.
 
 ## Analyzing the Factors Contributing to the Success of a Movie
-### Code 
-[Analyzing the Factors Contributing to the Success of a Movie.ipynb](https://github.com/kanisaini/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
-
+**Code:** [Analyzing the Factors Contributing to the Success of a Movie.ipynb](https://github.com/kanisaini/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
 ### Goal
 To determine what factors contribute the most to a movie's success.
