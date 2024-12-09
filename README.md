@@ -26,7 +26,7 @@ This section contains a list of projects with brief descriptions.
 **Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
 
 ## Covid-19 Data Analysis 
-**Code:** [Covid-19 Data Analysis.ipynb](https://github.com/kanisaini/PortfolioProjects/blob/main/Covid19DataAnalysis/Covid19-Data%20Analysis.ipynb)
+**Code:** [Covid-19 Data Analysis.ipynb](https://github.com/kanisaini/PortfolioProjects/blob/main/Covid19%20Data%20Analysis/Covid19-Data%20Analysis.ipynb)
 
 **Goal:** To analyze COVID-19 data to derive meaningful insights, trends, and patterns. 
 
